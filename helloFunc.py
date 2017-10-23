@@ -2,7 +2,7 @@
 
 def hello():
     print ('Howdy!')
-    print ('Hello')
+    print ('bye')
     print ('Heya')
     
 hello ()
